@@ -106,8 +106,3 @@ Fold errors:
 - Random seeds fixed for reproducibility.  
 - Code is fully documented.  
 - This README + DOCX form the full submission.
-
----
-
-*Prepared by **Santhosh Reddy Kistipati** for CS5710 (Fall 2025).*
-
