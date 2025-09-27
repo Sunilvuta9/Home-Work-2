@@ -11,10 +11,9 @@
 ---
 
 ## Repository Contents
-- `Homework 2 ML(1-6).pdf` — Part A questions (theory).
+- `Homework 2.docx`- A questions (theory).
 - `homework2_7_to_9.py` — Part B programming (standalone script).  
 - `HOMEWORK2_7_to_9.ipynb` — Jupyter/Colab notebook version.  
-- `Homework 2.docx` — combined written answers (submission format).  
 - `README.md` — this file (overview, instructions, and explanations).
 
 ---
